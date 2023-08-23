@@ -1,0 +1,4 @@
+#Tue Aug 22 18:11:01 IST 2023
+base.0=C\:\\m2ost\\app\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
